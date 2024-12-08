@@ -46,4 +46,8 @@ VIDEO created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on this milestone!
+Due to time constraints, a few features weren't able to come to fruition. These features include categorizing recipes by levels of 
+difficulty, and the ability to enter a list of ingredients and have recipes recommended to the user based off the ingredients
+entered. A page for text entry was created, but was left out of the final application as it had no use other than providing an error
+message when an ingredient was entered. On the final application, the homepage offers a clickable photo that cycles through photos
+of meals that the app offers ingredients for.
